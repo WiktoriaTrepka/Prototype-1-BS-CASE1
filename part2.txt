@@ -1,0 +1,69 @@
+24.05 o 12:00 DEADLINE
+
+Kierownictwo muzeum zdecydowało, że musi dotrzeć do szerszej publiczności i 
+zwiększyć liczbę odwiedzających ich muzeum. W związku z tym zatrudnili 
+do przeprojektowania strony wystawy (strony docelowej). Muzeum w szczególności 
+chce strony, która może przemówić do większej liczby osób i która lepiej prezentuje ich 
+wspaniałą wystawę i przekonać odwiedzających do odwiedzenia muzeum w Nybro.  Oni 
+chcieliby zwiększyć zaangażowanie użytkowników na swojej stronie internetowej, w mediach społecznościowych, a także 
+zachęcić odwiedzających do zapisania się na biuletyny e-mailowe lub zakupu towarów. Są 
+otwarci na nowe propozycje dotyczące projektu i funkcjonalności. 
+
+- front page (welcome page)
+- zapis na biuletyny e-mailowe
+- zakup towarow
+________________________
+
+KOLORY (lec 7)
+? SPLIT COMPLEMENTRARY + color meaning
+? czarny 
+? zolty 
+? niebieski
+? purpurowy
+? bialy
+
+LAYOUT i COMPOSITION
+? Proximity - visual space - related items group together / not-separated - easier to understand
+? White space - room to breathe
+? alignment - attention to deatail - to organized things
+? contrast - 1 item different from another 
+? hierarchy - help the viewer navigate 
+? repetition - being consistent
+IKONY
+? communicate meaning
+? object action or idea
+? fast to recognize
+? no need to translate
+? visually pleasing
+? <3 i stars
+? ikony z text label! without user interaction
+? dzwięk
+? simple i schematic
+? 5sec rule
+? test for recognizability + memorability
+? tłumaczenie strony
+
+MAPA (lec 8)
+
+? dwa zdjecia jedno bardziej oddalone - panstwo
+? drugie przyblizone
+? no jakies kolorki xd
+? uzywac markerów
+? network - chodzi o dojazd 
+? interaktywna mapa git chodzi o zoom in/out
+? ma byc prosta
+
+
+Persuasive design (lec 10)
+? MOTIVATION grey -> color ze kurde np 10% zniżki xd
+? pleasure or pain
+? hope or fear
+? social acceptance or rejection
+? time! 
+? money
+? physical effort
+? 
+
+
+
+
