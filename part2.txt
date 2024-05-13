@@ -1,5 +1,7 @@
 24.05 o 12:00 DEADLINE
 
+
+
 Kierownictwo muzeum zdecydowało, że musi dotrzeć do szerszej publiczności i 
 zwiększyć liczbę odwiedzających ich muzeum. W związku z tym zatrudnili 
 do przeprojektowania strony wystawy (strony docelowej). Muzeum w szczególności 
@@ -50,7 +52,7 @@ MAPA (lec 8)
 ? no jakies kolorki xd
 ? uzywac markerów
 ? network - chodzi o dojazd 
-? interaktywna mapa git chodzi o zoom in/out
+? interaktywna mapa git chodzi o zoom in/out *najlepiej z google
 ? ma byc prosta
 
 

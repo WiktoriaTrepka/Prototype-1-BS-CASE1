@@ -3,7 +3,7 @@ body {
     margin: 20;
     padding: 20px;
     background-image: url('HOMEPHOTO.png');
-    background-size: 100% 200%;
+    background-size: 100% 280%;
     background-position: center top;
     background-repeat: no-repeat;
     background-color: black;
@@ -12,57 +12,38 @@ body {
 
 
 
-
-
 header {
     color: #fff;
-    padding: 20px 0;
     position: sticky;
-    top: 0;
+    display: flex; /* Ustawienie elementów w linii */
+    align-items: center; /* Wyśrodkowanie elementów w pionie */
+    justify-content: space-between; /* Rozstawienie elementów na końcach kontenera */
 }
-.container {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
-}
-.logo {
-    float: left top;
-    margin-left: 65px;
-}
+
 .logo img {
     max-height: 90px;
+    margin-left: 20px; /* Odpowiednio dostosuj marginesy */
 }
-nav {
-    display: flex;
-    justify-content: space-between;
-}
+
 nav ul {
     list-style-type: none;
-    padding: 20;
-    margin: 10;
-    flex-grow: 1;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Ustawienie elementów w linii */
 }
+
 nav ul li {
-    display: inline;
-    margin-left: 20px;
-    float: left;
-    width: 10%;
-    text-align: center;
+    margin-left: 20px; /* Odpowiednio dostosuj marginesy */
 }
+
 nav ul li:first-child {
-    margin-left: 0;
+    margin-left: 0; /* Usuń margines dla pierwszego elementu listy */
 }
+
 nav ul li a {
     color: #fff;
     text-decoration: none;
 }
-
-
-
-
-
-
-
 
 
 
