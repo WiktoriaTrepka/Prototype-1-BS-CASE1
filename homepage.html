@@ -99,6 +99,19 @@
         background-color: #fff !important;
         color: #000000;
       }
+
+      .przycisk .btn:hover {
+        border: 1px solid #000000;
+        background-color: #fff !important;
+        color: #000000;
+      }
+
+      .przycisk .btn {
+        margin: 15px 0;
+        background-color: #000000;
+        color: #fff;
+      }
+
       .panel-heading {
         color: #fff !important;
         background-color: #000000 !important;
@@ -275,7 +288,7 @@
   <div id="myModal" class="modal fade">
     <div class="modal-dialog modal-newsletter">
       <div class="modal-content">
-        <form action="#tickets" method="post">
+        <form action="#pricing" method="post">
           <div class="modal-header justify-content-center">
             <div class="icon-box">
               <img src="007logo.png">
@@ -306,9 +319,8 @@
                     <li class="nav-item active"><a href="#pricing" class="nav-link text-uppercase font-weight-bold">Visit <span class="sr-only">(current)</span></a></li>
                     <li class="nav-item"><a href="#exhibitions" class="nav-link text-uppercase font-weight-bold">Exhibitions</a></li>
                     <li class="nav-item"><a href="#events" class="nav-link text-uppercase font-weight-bold">Events</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Shop</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Attractions</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">TICKETS</a></li>
+                    <li class="nav-item"><a href="#shop" class="nav-link text-uppercase font-weight-bold">Shop</a></li>
+                    <li class="nav-item"><a href="#pricing" class="nav-link text-uppercase font-weight-bold">TICKETS</a></li>
                 </ul>
             </div>
         </div>
@@ -549,13 +561,14 @@
         <h2 class="display-4 text-center">Shop</h2>
     </div>
 
+    <div class="przycisk">
     <div class="row text-center slideanim">
         <div class="col-sm-6">
           <div class="thumbnail">
             <img src="item1.jpg" alt="Paris" width="400" height="300">
             <p><strong>James Bond Gunnar Schäfer Per Hallberg in Borgholm</strong></p>
             <p>7/7-2018 British Car Meet</p>
-            <button type="button" class="btn btn-primary">Buy Tickets</button>
+            <button type="button" class="btn btn-lg">Add to cart</button>
           </div>
         </div>
 
@@ -565,9 +578,10 @@
             <p><strong>Stay at Palazzo Gattini</strong></p>
             <p>Many thanks to Gino Marchionna for our wonderful stay at Palazzo Gattini room nr 304.
               Best regards Bond...James Bond.</p>
-              <button type="button" class="btn btn-primary">Buy Tickets</button>
+              <button type="button" class="btn btn-lg">Add to cart</button>
           </div>
         </div>
+      </div>
 </div>
 </div>
 
@@ -576,6 +590,7 @@
 
 
 <footer>
+  <div class="przycisk">
   <div class="footer-top">
     <div class="container">
       <div class="row">
@@ -639,7 +654,7 @@
                       ></textarea>
                     </div>
               
-                    <button type="submit" class="btn btn-submit btn-info">Send</button>
+                    <button type="submit" class="btn btn-submit btn-lg">Send</button>
                   </form>
                   </div>
                 </div>
@@ -647,6 +662,7 @@
         </div>
     </div>
   </div>
+</div>
 </footer>
 
    
